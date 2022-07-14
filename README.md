@@ -11,4 +11,4 @@
 
 ## Design
 
-![Game Board](https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2022%2F01%2F31%2Fcrosswords%2Fwordle-art%2Fwordle-art-mediumSquareAt3X.jpg&imgrefurl=https%3A%2F%2Fwww.nytimes.com%2F2022%2F01%2F31%2Fcrosswords%2Fnyt-wordle-purchase.html&tbnid=XwwXJ5i5-ssrWM&vet=12ahUKEwjm5dis1vj4AhWn0IsBHU80CqsQMygJegUIARDJAQ..i&docid=ti3NVnXfaXxm2M&w=830&h=830&q=wordle&ved=2ahUKEwjm5dis1vj4AhWn0IsBHU80CqsQMygJegUIARDJAQ)
+![Game Board](https://zh.wikipedia.org/zh-cn/File:Wordle_196_example.svg)
